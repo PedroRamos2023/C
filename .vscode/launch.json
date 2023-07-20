@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/Usuario/OneDrive/Documentos/GitHub/C/Capítulo 7",
-      "program": "c:/Users/Usuario/OneDrive/Documentos/GitHub/C/Capítulo 7/build/Release/outRelease",
+      "program": "c:/Users/Usuario/OneDrive/Documentos/GitHub/C/Capítulo 7/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

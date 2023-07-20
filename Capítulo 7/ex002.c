@@ -6,6 +6,6 @@ int main()
     
     printf("I'm waiting for a character: ");
     c = getchar();
-    printf("I waited for the '%c' character.\n", c);
+    printf("I waited for the '%d' character.\n", c);
     return(0);
 }
